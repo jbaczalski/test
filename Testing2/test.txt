@@ -3,3 +3,7 @@ test tłumaczenia
 test tłumaczenia
 fihfa
 t
+test
+test
+test
+1
