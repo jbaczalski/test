@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>     <!--Delta  version 26.2 -->      <string name="ABOUT_DI_NUMBER">(01)08720689010023(10)</string>
+    <string name="APPLEHEALTH_PERMISSION">Select Dental+ to enable/disable permission</string>
+    <string name="APPLEHEALTH_PRIVACYDETAIL">When you authorize the app to link with Apple Health, you allow Philips Dental+ to write data to and read data from Apple Health. The data exchanged includes your brushing duration. You can turn off sharing at any time.</string>
+    <string name="Android_Onboarding_Copy">Please select \"Allow all the time\" if you want the Dental+ app to be able to automatically collect brushing history when the app is closed and your phone is near your toothbrush. An up-to-date history improves the brushing tips Dental+ provides.</string>
+    <string name="BCBS_FCAR_CAVITY">Periodontal areas</string>
+    <string name="BLE_ANDROID_12_NEAR_BY_TITLE">To connect to your toothbrush and provide personalized tips, Dental+ needs to access nearby devices.</string>
+    <string name="BLE_CONSENT_TRACK_LOCATION_TEXT">Dental+ never tracks your geographic location.</string>
+    <string name="BLUETOOTH_DISABLED">Bluetooth permission for the Dental+ app has been disabled</string>
+    <string name="BRUSHING_CONSISTENCY_TITLE">Your progress</string>
+    <string name="BRUSHING_GUIDANCE_CONSENT_DESC">When you consent to receiving brushing guidance you allow Philips Dental+ to improve your oral health. We do so by keeping track of your progress and goals and providing personalized advice. The oral care information we process includes your brushing patterns, goals, oral care habits, focus areas, and any personalization responses you provide, which are associated to your account.</string>
+    <string name="BRUSHING_GUIDANCE_MOREINFO">When you consent to receiving brushing guidance, you allow Philips Dental+ to improve your oral health. We do so by keeping track of your progress and goals and providing personalized advice. The oral care information we process includes your brushing patterns, goals, oral care habits (such as flossing and rinsing), and your answers in our Personalization page and Focus Area (such as plaque build-up, bleeding areas, gum recession and potential cavities), which we associate to your account.</string>
+    <string name="BRUSH_TWICE_A_DAY">Brush twice a day</string>
+    <string name="BRUSH_UNTIL_STOPS">Brush until your toothbrush stops</string>
+    <string name="CONNECTED_TOOTHBRUSH_NOT_SUPPORTED">The toothbrush you connected is not supported by the Dental+ app.</string>
+    <string name="CONNECT_NEW_DEVICE">Connect to a new device</string>
+    <string name="DATA_SYNC_BLUETOOTH_SETTINGS_OFF_DESC">Simply go to your phone settings and allow Bluetooth for Dental+. When you are all set, return to the app to continue so we can connect to your toothbrush.</string>
+    <string name="DATA_SYNC_BRUSH_PAIRING_DESC">Here\'s how to do that:  • Go to your phone settings • Open Bluetooth • Tap on Philips Sonicare and choose \'Forget\' or \'Unpair\' • Return to the Dental+ app and accept the pairing request</string>
+    <string name="DATA_SYNC_PAIRING_DESC">Here\'s how to do that:\n\n• Go to your phone settings\n• Open Bluetooth\n• Tap on the info icon, and select ‘Forget This Device’ for Philips Sonicare\n• Return to the Dental+ app and accept the pairing request</string>
+    <string name="DATA_SYNC_TOOTHBRUSH_RESET_DESC">Here\'s how to do that:\n\n• Place the toothbrush on its original charger\n• Press and release the power button 10 times within 5 seconds while toothbrush remains on the charger\n• When all the lights turn on in rapid succession, the reset is complete\n• Return to the Dental+ app and accept the pairing request</string>
+    <string name="DELTA_DENTAL_TC_SECOND_LAYER_FIRST">When you connect your toothbrush to the Dental+ App (“App”), Philips (“Philips”, “we” or “us”) provides its own services to you and processes your personal data in accordance with the App’s Privacy Notice.   You may also instruct Philips to share your personal data with other third parties for purposes outside the services Philips provides – and we understand that you would like us to do so for purposes of the BrushSmart Program. Therefore, by tapping on “Agree and continue” you are instructing and authorizing Philips to share the following data with Delta Dental for purposes of the BrushSmart Program:</string>
+    <string name="DRS_INFO_CONTENT_02">You will need to allow access to your location settings, so that the Dental+ app can automatically receive your brushing info when your phone and toothbrush are nearby.</string>
+    <string name="DRS_INFO_CONTENT_09">The brush head reordering service will automatically be cancelled if you deregister your toothbrush from your Dental+ app account.</string>
+    <string name="DRS_TSR_STEP2_TITLE">Dental+ app monitors your brush head usage, and orders are made for you.</string>
+    <string name="FAST_BSUCCESS_NOTIFICATION">You\'re on a roll! See how far you\'ve come.</string>
+    <string name="FWUP_APP_UPDATE_MANDATORY_1">Please update to continue enjoying the latest features of the Dental+ app.</string>
+    <string name="GDPR_ALLOW_ACCESS_BRUSH_DATA">I allow Philips Dental+ access to my brushing data, to ensure I receive the most from my Sonicare complete oral healthcare experience.</string>
+    <string name="GDPR_SETTINGS_DESCRIPTION">Customize your Privacy settings. Read the Philips Dental+ Privacy Policy for more information</string>
+    <string name="GOAL_REMIND_APNT">Let your Dental+ app remind you about upcoming dental appointments.</string>
+    <string name="GREETING_LAST_SYNCED_AT">Last synced at</string>
+    <string name="HMBG_ABOUT_REF_NUMBER">HX4444-99</string>
+    <string name="HMBG_PHILIPS_SONICARE">Philips Dental+</string>
+    <string name="LEIA_CONTACTUS_TITLE">Contact Us</string>
+    <string name="LOCATION_PERMISSION_DESC">This allows your toothbrush to automatically connect to the app when near your device. Keeping your brushing history up-to-date improves the tips Dental+ provides for you.</string>
+    <string name="NEW_ONBG_DETAILS_PERSONAL">When you consent to receiving brushing guidance and making the app better, you allow Philips Dental+ to improve your oral health. We do so by keeping track of your progress and goals, providing personalized advice, and developing new features and solutions for you. The oral care information we process includes your brushing patterns, goals, oral care habits (such as flossing and rinsing), and your answers in our Personalization page and Focus Area (such as plaque build-up, bleeding areas, gum recession and potential cavities), which we associate to your account.</string>
+    <string name="OB_TERMS_AND_CONDITION_ACCEPT_TITLE" formatted="false">I have read and accept the Dental+ app %s</string>
+    <string name="OFFLINE_NO_COVERAGE_DATA_AVAILABLE_DESC">Sorry no Coverage data available. Please use the Dental+ app when brushing to get the coverage applied mouth map report.</string>
+    <string name="OFFLINE_NO_PRESSURE_DATA_AVAILABLE_DESC">Sorry no Pressure data available. Please use the Dental+ app when brushing to get the Pressure applied mouth map report</string>
+    <string name="OFFLINE_NO_SCRUBBING_DATA_AVAILABLE_DESC">Sorry no Scrubbing data available. Please use the Dental+ app when brushing to get the Scrubbing applied mouth map report</string>
+    <string name="ONBG_VDO_DFU_BODY_TXT_9">At first glance it may not be obvious, but brush heads lose stiffness and gradually wear down over months of use. Our blue reminder bristles fade to white and help you recognize when it\'s time for a replacement. For optimal results use the Brush Head Performance Monitor in our Philips Dental+ app to track when to replace your brush head.</string>
+    <string name="PAYER_WEEKLY_NOTIFICATION_MSG">Open the Dental+ app to see your progress this week!</string>
+    <string name="PAYER_WEEKLY_NOTIFICATION_TITLE">Philips Dental+</string>
+    <string name="PERMISSION_CAL_TITLE">Dental+ would like to access your calendar</string>
+    <string name="SECURITY_APP_BLOCKED">Access to the Dental+ app has been blocked.</string>
+    <string name="SECURITY_UNINSTALL_APP">To ensure that your personal information remains secured, please uninstall the Dental+ app from your phone.</string>
+    <string name="SONICARE_APP_NAME">Dental+</string>
+    <string name="TOOTHBRUSH_NOT_SUPPORTED">Toothbrush not supported</string>
+    <string name="app_name">Dental+</string>
+    <string name="PROGRAM_CODE_TITLE">Enter your program code</string>
+    <string name="PROGRAM_CODE_DESCRIPTION">This code was sent to you by your insurance company. Please enter it here.</string>
+    <string name="PROGRAM_CODE_DESCRIPTION2">We use this code to show content that is relevant to your program.</string>
+    <string name="PROGRAM_CODE_ERROR">You have entered an incorrect ID code. Please try again.</string>
+    <string name="ENTER_CODE">Enter code</string>
+    <string name="PAYER_ID_VALIDATION">A unique ID code was sent to your email from your insurance company. Please enter it here.</string>
+    <string name="PPR_ReceiveUpdates_Lbltxt">- Receive important updates about your products</string>
+    <string name="PAYER_ID_VALIDATION_ERROR">You have entered an incorrect ID code. Please try again.</string>
+    <string name="TXT_NO_THANKS">No Thanks</string>
+    <string name="VERIFICATION_TITLE">Verification</string>      <!--TR-->     <string name="PRODUCT_SYNC_TOOTHBRUSH">Toothbrush</string>     <!--TR-->     <string name="PRODUCT_SYNC_CONNECTING">Connecting...</string>     <!--TR-->     <string name="PRODUCT_SYNC_SYNCING">Syncing</string>     <!--TR-->     <string name="PRODUCT_SYNC_SYNCED">Synced</string>     <!--TR-->     <string name="PRODUCT_SYNC_TAP_TO_CONNECT">Tap to Connect</string>     <!--TR-->     <string name="PRODUCT_SYNC_CONNECT_TOOTHBRUSH">Connect a toothbrush</string>
+
+</resources>
